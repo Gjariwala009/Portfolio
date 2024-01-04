@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping and eating. My favourite topics to talk on are life philosophies and crazy humor topics.
 - 🌱 I’m currently learning at Dalhousie university in Bachelors of Computer Science.
 - 💞️ I’m looking to collaborate on Anything related to computer Coding that interests me in innovation.
-- 📫 How to reach me. My insta:- @_.devilic.angel._
+- 📫 How to reach me. My insta:- "@_.devilic.angel._"
 
 
 <!---
