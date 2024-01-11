@@ -1,6 +1,27 @@
-.about-section {
+.about-page{
     background-image: url(../img/wallpaper-portfolio.jpg);
-    color: aliceblue;
-    margin: 50px 0;
-    text-align: center;
-   }
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    
+    color: white;   
+}
+
+.about-section{
+    display: flex;
+    flex-direction: column;
+    padding: 11% 7% 25% 7%;
+}
+
+.description{
+    width: 70%;
+}
+
+img{
+    width: 23%;
+    object-fit: contain;
+    padding-right: 10%;
+}
