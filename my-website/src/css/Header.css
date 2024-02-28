@@ -16,14 +16,14 @@
 }
 
 .header {
-  background-image: url(../wallpaper-portfolio.jpg);
+  background-image: url(../img/background-image.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 315px 100px;
+  padding: 70px 100px;
   color: white;
 }
 
@@ -31,6 +31,11 @@
   font-size: 60px;
   font-weight: bold;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.profile{
+  width: 23%;
+  object-fit: contain;
 }
 
 .contact {
