@@ -21,7 +21,8 @@ function Header() {
           <div className="logo">GAVIN<br />JARIWALA</div>
           <img className="profile"  src='/Portfolio-pic.png' alt='Profile'/>
           <Routes>
-            <Route path="/about" element={<About />} />
+          <Route path="/" exact component={Header} />
+        <Route path="/about" exact element={About} />
           </Routes>
         </div>
       </div>
